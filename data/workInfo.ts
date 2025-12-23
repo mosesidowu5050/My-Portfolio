@@ -50,7 +50,7 @@ export const projects: Project[] = [
     image: "/tracker.png",
     description:
       "A personal finance tracking app to record daily expenses, categorize transactions, and visualize financial health using charts. Helps users stay on top of their budgets and savings goals.",
-    url: "https://github.com/mosesidowu5050/ExpenseTrackerApp",
+    url: "https://github.com/mosesidowu5050/JWTExpenseTracker",
     tech: ["Java, Spring Boot"],
   },
   {
